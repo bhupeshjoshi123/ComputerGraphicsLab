@@ -1,0 +1,11 @@
+{
+  "name": "lab4",
+  "projects": [
+    "2DReflection",
+    "2DShearing",
+    "3DRotation",
+    "3DScaling",
+    "3DTranslation",
+    "CohenSutherlandLineClipping"
+  ]
+}
